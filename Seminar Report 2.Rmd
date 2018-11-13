@@ -1,0 +1,35 @@
+---
+title: "R Notebook"
+output: html_notebook
+---
+Name:Gabi Carley
+
+Seminar Speaker's Name: Kory Lavine, MD, PhD
+Seminar Speaker's Affiliation: Cardiovascular Division, Section of Heart Failure and Transplantation Center for Cardiovascular Research, Barnes Jewish Hospital/Washington University School of Medicine
+
+Date: 11/8
+Time: 11am-12pm
+
+Seminar Title: Leveraging Immune Cell Diversity for the Treatment of Myocardial Infarction and Heart Failure
+
+Seminar Summary:
+
+The overall pathogenesis of heart failure is known, however the ways in which immune cell diversity can be leveraged for the treatment of heart failure and myocardial infarction are not. The development of heart failure is characterized by an index event followed by adverse remodeling in which the heart gets larger and fibrosis occurs. Current drugs for heart failure are angiotensin inhibitors and only affect the remodeling process. Much is still unknown about index events and the specific factors that determine whether patients recover or not. The researchers are concerned about how the capacity of an already failing heart can be improved through the mechanism of inflammation.
+
+Following a myocardial function and chronic heart failure, serum cytokine levels and monocyte abundance are increased. However, there is not well established research findings concerning these cytokines and their mechanisms. Clinical trials with anti-inflammatory therapies for heart failure have yielded disappointing results. Therefore, Kory Lavine and his team conducted research targeted to the role of inflammation in the pathogenesis and progression of heart failure.
+
+Macrophages compose 85% of the immune cells in the heart. Cardiac macrophages can be split into two groups: definitive hematopoietic progenitors and primitive hematopoietic progenitors. The main difference between these two types of macrophages are that definitive hematopoietic progenitors recruit monocytes while primitive do not. Another primary component of this study are chemokine receptor type 2 (CCR2) levels. CCR2 is expressed on macrophages as either positive or negative. CCR2- macrophages are longer lived and maintained independent of monocyte input and CCR2+ macrophages are shorter lived. 
+
+ImmGen Transcription Profiling (RNA seq) and gene set enrichment analysis (GSEA) were performed on tissue samples from patients with heart failure in order to measure and analyze levels of CCR2- and CCR2 + enriched macrophages and their different functions. Microarray data was used to confirm if the cells fit with classic markers used to differentiate a macrophage from of a monocyte. CCR2 + macrophages were found to express high levels of inflammatory mediators and were derived from recruited monocytes. CCR2- macrophages were found to have high levels of growth factors, and were independent of monocytes. Normal areas of the myocardium were found to have high levels of CCR2- while scar tissue was found to have high levels of CCR2+. Cardiac macrophage composition was also found to be associated with heart failure outcomes. A higher percentage of CCR2+ abundance was associated with persistent heart problems, and as the abundance increased, the improvement in ejection fraction following implant of a left ventricular assistance device approached zero. There were also an accumulation of CCR2+ macrophages following a heart attack, visualized using histology slices. 
+
+Single nuclei RNA sequencing was then performed on cryopreserved cardiac tissue in order to look at cardiac cell diversity. Many different cardiomyocytes were visible, and CCR2 positive and negative were clearly confirmed as different. Tissue resident CCR2- macrophages were confirmed to play key roles in remodeling the heart and cardiac regeneration. CCR2+ macrophages were found to produce cytokines and chemokines, govern the recruitment of neutrophils and monocytes, contribute to damaging inflammation, and reach their "fingers" into blood vessels. Overall, CCR2+ macrophages were found to be harmful in the transition of an injured heart to a chronically failing heart. 
+
+From these results, it was concluded that tissue resident macrophages can be manipulated to alter outcomes following myocardial infarction, and that monocyte fate decisions can be influenced. There are opportunities for researchers to intervene in these pathways through methods such as ferroptosis. The objectives of clinical translation of this research include developing precision therapies, identifying causative mechanisms, and defining disease at the patient level. The findings regarding CCR2 expression could specifically be applied to donor candidate selection, drug target efficacy, and dosing precision.
+
+This research somewhat relates to my project because they analyzed and visualized gene (CCR2) expression levels. Just as macrophages were characterized by their differential expression of CCR2+ or CCR2-, my group aims to determine certain genes whose differential expression (up or down regulation) characterize healthy vs. diseased (Alzheimers) brains.
+
+Two questions I have for the speaker are:
+
+How can you inhibit the negative and harmful pathways of CCR2+ macrophages without also inhibiting the unique role they play in injury and immune response? In other words, could there be negative side effects due to a lack of inflammation?
+
+Since CCR2+ macrophages can reach their fingers into blood vessels, could future drugs targeted to these macrophages get into the bloodstream? If so, what would the implications of this be?
